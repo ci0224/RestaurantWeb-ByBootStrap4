@@ -1,0 +1,16 @@
+ 1054  npm start
+ 1055  ls
+ 1056  cd ..
+ 1057  ls
+ 1058  cd conFusion/node_modules
+ 1059  ls
+ 1060  ls
+ 1061  cd ..
+ 1062  ls
+ 1063  cd node_modules
+ 1064  cd ..
+ 1065  cd ..
+ 1066  ls
+ 1067  cd ..
+ 1068  ls
+ 1069  history
